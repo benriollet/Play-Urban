@@ -1,0 +1,22 @@
+Title: Numéros
+
+----
+
+Text: 
+
+Les numéros des revues.
+
+## Creative practice and research
+Play>Urban engages critically with the gap between creative practice and research and aims to develop collaborations between students, pedagogues, artists, researchers and cultural activists.
+
+(image: about.jpg)
+
+### Lorem Ipsum
+Les urbanités contemporaines dans le monde abordées sous l’angle du vécu et des pratiques de leurs habitants, mis en dialogue avec des pratiques d’artistes entre théâtralité et art contemporain.
+
+L’urbain est ici compris à la fois en tant qu’espace(s) physique(s) et en tant que réseau(x). La pensée des villes aujourd’hui ne s’arrête plus à leur espace physique et, au delà d’une dimension imaginaire, ce sont les questions de mise en réseau mais aussi de migrations, de circulations inter-villes, inter-continents, qui déterminent l’urbain. Play/Urban est donc conçu à la fois comme un ensemble de dispositifs de création en immersion dans des milieu(x) urbains et comme une plateforme 3D en ligne, entre les différentes équipes et villes participant au projet.
+
+Comment via des pratiques d’artistes autour des arts du temps, de la théâtralité, du performatif, du spectaculaire, du scénographique, du jeu, de la relation au spectateur, peuvent s’inventer des dispositifs de création en immersion dans le contexte urbain de grandes villes dans le monde. Comment ces dispositifs de création s’articulent aux pratiques quotidiennes de vie et d’occupation de l’espace (et à leur part de création), aux contextes, aux habitants, aux territoires, les questionnent, les (re)mettent en jeu, et tentent de fabriquer (pour quelques instants ou plus durablement) de l’espace public. Cette notion d’espace public, historiquement liée à l’histoire des villes européennes, est sujet à interrogations dans les contextes urbains des villes émergeantes, les grandes mégalopoles, etc. C’est un enjeu que Play/Urban entend travailler, via des dispositifs dans l’espace urbain, en s’appuyant sur les travaux d’un ensemble de chercheurs (sociologues, historiens, ethnologues…) qui ont travaillé dans des villes comme Dakar, Djakarta, Kinshasa, et bien sur tout particulièrement à Johannesburg qui est un passionnant exemple permettant d’interroger ces enjeux.
+
+#### Dakar, Djakarta, Kinshasa
+C’est un enjeu que Play/Urban entend travailler, via des dispositifs dans l’espace urbain, en s’appuyant sur les travaux d’un ensemble de chercheurs (sociologues, historiens, ethnologues…) qui ont travaillé dans des villes comme Dakar, Djakarta, Kinshasa, et bien sur tout particulièrement à Johannesburg qui est un passionnant exemple permettant d’interroger ces enjeux.
